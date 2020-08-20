@@ -1,7 +1,4 @@
-<h1 align="center">
-    <img alt="proffy-landing" src="https://github.com/PF-Henrique/NLW-2-Proffy/blob/master/.github/amostra.png" />
-</h1>
-  
+
 <h4 align="center">
   Next Level Week #2
 </h4>
@@ -78,7 +75,7 @@ Clone your repo to your local machine.
 
 ```sh
 
-git clone https://github.com/PF-Henrique/NLW-Proffy-Rocketseat.git
+git clone https://github.com/ZyronAlex/Proffy.git
 
 ```
 #### 3. Arquiteture 🎲
@@ -236,11 +233,11 @@ Then send a Pull Request that will be analyzed and approved if it helps with the
 ---
 ## 🐛 Issues
 
-Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/PF-Henrique/NLW-Proffy-Rocketseat/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
+Feel free to **file a new issue** with a respective title and description on the the [Proffy](https://github.com/ZyronAlex/Proffy/issues) repository. If you already found a solution to your problem, **i would love to review your pull request**!
 
 ## 📚 License
 <p align="justify">
-This project is licensed under the <a href="https://github.com/PF-Henrique/NLW-Proffy-Rocketseat">MIT<a/> License
+This project is licensed under the <a href="https://github.com/ZyronAlex/Proffy">MIT<a/> License
 </p>
     
 ## 👀 Agradecimentos
@@ -250,18 +247,6 @@ This project is licensed under the <a href="https://github.com/PF-Henrique/NLW-P
 
 ---
 
-## ✨ Me
-
-<a href="https:https://github.com/PF-Henrique/">
-  <img src="https://avatars1.githubusercontent.com/u/48561196?s=460&u=5b39cdc8c6d447868ca0caac900f1ee7a1793962&v=4" width= "50px;" height= "50px;" alt="Avatar"/>
-  <br />
- <sub>
-  <b>
-    Pedro Ferreira
-  </b>
-</sub>
-</a> 
-<a href="<a href="https:https://github.com/PF-Henrique/" title="proffy">🚀👩‍🚀</a>
-<br />
-
-Made with 💙 by Pedro Ferreira 👋 [Talk to me!](https://www.linkedin.com/in/pedro-ferreira-148503b8/) :octocat:
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/alexbelo/" target="_blank">Alex Fraga Belo</a>
+</h4>
