@@ -16,9 +16,9 @@
 <div align="center">
 Acesse os Readmes com passo a passo, divididos em Front-end, Back-end e Mobile:  <br><br>
 
-💻 **Acesse o Front-end [aqui](https://github.com/PF-Henrique/NLW-2-Proffy/tree/master/web)** | 
-🖥 **Acesse o Back-end [aqui](https://github.com/PF-Henrique/NLW-2-Proffy/tree/master/server)** | 
-📱 **Acesse o Mobile [aqui](https://github.com/PF-Henrique/NLW-2-Proffy/tree/master/mobile)** |
+💻 **Acesse o Front-end [aqui](https://github.com/ZyronAlex/Proffy/tree/master/frontend)** | 
+🖥 **Acesse o Back-end [aqui](https://github.com/ZyronAlex/Proffy/tree/master/backend)** | 
+📱 **Acesse o Mobile [aqui](https://github.com/ZyronAlex/Proffy/tree/master/mobile)** |
 </div>
 
 <br>
